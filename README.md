@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi there — I’m Kosta Sarinopoulos
 
 🎓 **Master’s Student in Data Science @ University of Michigan**  
@@ -24,10 +23,11 @@
 
 ## 📈 Projects & Experience
 🌟 Some things I’ve worked on:
-- Improving **ROI of direct mail campaigns** through donor segmentation
-- Analyzing **Millennial and Gen Z banking preferences**
-- Predictive modeling for energy consumption by state & sector
-- Sentiment analysis of university fundraising campaigns
+- 📉 **Econometric Analysis of Energy Consumption Behavior Changes during COVID-19**
+- 🔍 **Case Study: Nevada vs. Utah — How Energy Can Predict Economic Outcomes**
+- 🔗 **US Energy Consumption Clustering and Forecasting**
+- 🏈 **Machine Learning: Predicting NFL Game Outcomes**
+- 🪙 **Is Bitcoin Digital Gold?**
 
 You can find more in my pinned repositories or reach out if you’d like to collaborate!
 
@@ -39,8 +39,6 @@ You can find more in my pinned repositories or reach out if you’d like to coll
 
 Thanks for stopping by — feel free to star ⭐ or fork 🍴 anything you find useful!
 
----
-_“Easy is in the eye of the user.”_
 
 <!--
 **Kosta-Sarinopoulos/Kosta-Sarinopoulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
